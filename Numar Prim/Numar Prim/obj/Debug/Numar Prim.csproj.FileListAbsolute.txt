@@ -1,0 +1,11 @@
+C:\Student\IXDD\Numar Prim\Numar Prim\bin\Debug\Numar Prim.exe.config
+C:\Student\IXDD\Numar Prim\Numar Prim\bin\Debug\Numar Prim.exe
+C:\Student\IXDD\Numar Prim\Numar Prim\bin\Debug\Numar Prim.pdb
+C:\Student\IXDD\Numar Prim\Numar Prim\obj\Debug\Numar Prim.csproj.AssemblyReference.cache
+C:\Student\IXDD\Numar Prim\Numar Prim\obj\Debug\Numar Prim.csproj.SuggestedBindingRedirects.cache
+C:\Student\IXDD\Numar Prim\Numar Prim\obj\Debug\Numar_Prim.Properties.Resources.resources
+C:\Student\IXDD\Numar Prim\Numar Prim\obj\Debug\Numar Prim.csproj.GenerateResource.cache
+C:\Student\IXDD\Numar Prim\Numar Prim\obj\Debug\Numar Prim.csproj.CoreCompileInputs.cache
+C:\Student\IXDD\Numar Prim\Numar Prim\obj\Debug\Numar Prim.exe
+C:\Student\IXDD\Numar Prim\Numar Prim\obj\Debug\Numar Prim.pdb
+C:\Student\IXDD\Numar Prim\Numar Prim\obj\Debug\WindowsFormsApp1.Form1.resources
